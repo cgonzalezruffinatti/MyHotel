@@ -14,6 +14,20 @@ export class DataService implements InMemoryDbService  {
                 description: 'Description card one',
                 color: 'red',
                 date: '6-15-22, 9:03 AM'
+            },
+            {
+                id: 2,
+                title: 'Card Two',
+                description: 'Description card two',
+                color: 'orange',
+                date: '9-6-22, 5:28 PM'
+            },
+            {
+                id: 3,
+                title: 'Card Tree',
+                description: 'Description card two',
+                color: 'orange',
+                date: '15-8-22, 5:28 PM'
             }
         ]
        }
